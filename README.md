@@ -9,3 +9,4 @@ Welcome to the Paradise Nursery online plant shop! This is a dynamic e-commerce 
 * **State Management:** Utilizes Redux Toolkit for seamless cart state management across components.
 
 * dfvdfvv
+vfkvkdvfkvdmv
